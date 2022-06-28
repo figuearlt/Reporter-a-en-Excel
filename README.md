@@ -9,7 +9,7 @@ Reporte en Excel para análisis de información relevante, utilizando datos de v
 Informe que presenta información de ingresos totales obtenidos durante un período determinado, en este caso un año. En segundo lugar, se ofrece información segmentada por las categorías de **Región**, **Producto** y **Vendedor**. Dentro de cada categoría se ofrece información de aquellos montos mayores y menores dentro de cada categoría, con sus respectivas visualización para simplificar y comprender mejor el análisis. Finalmente, se disponen de filtros, los cuales permiten segmentar según las categorías mencionadas anteriormente y cada elemento dentro de ellas.
 
 ![Informe de Ventas]
-(/Assets/Informe_de_Ventas.png)
+(/.../Assets/Informe_de_Ventas.png)
 
 ## Informe de Finanzas
 
