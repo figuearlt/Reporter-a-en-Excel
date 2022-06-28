@@ -36,7 +36,9 @@ Informe tipo *Dashboard*, el cual ayuda para monitorear y tomar decisiones en ba
 En primer lugar, el informe puede segmentarse en base al **Status** del producto, es decir, si es un producto **Devuelto** o **Entregado**, o ver ambas a modo de producción total. Con ello nos ofrece información sobre su producción y las órdenes de compra para estas, y visualiza el porcentaje de entregas sobre el total producido. En segundo lugar, se viasualiza información sobre qué **Gerentes** tuvo un mejor desempeño de ventas entregadas o aquel que tuvo mayores devoluciones; qué **Tipo de Cliente** tuvieron más piezas producidas; qué productos según el **Tipo de Prioridad** de entrega fueron devueltas o vendidas.
 Por último, se presenta un segundo informe con mayor detalle sobre las razones de las devoluciones, segmentado por las mismas categorías anteriores.
 
-![Informe de Producción] (https://raw.githubusercontent.com/figuearlt/Reporter-a-en-Excel/master/Assets/Informe_de_Produccion.png)
+![]
+(https://raw.githubusercontent.com/figuearlt/Reporter-a-en-Excel/master/Assets/Informe_de_Produccion.png)
 
-![Informe de Devoluciones] (https://raw.githubusercontent.com/figuearlt/Reporter-a-en-Excel/master/Assets/Informe_de_Devolucion.png)
+![]
+(https://raw.githubusercontent.com/figuearlt/Reporter-a-en-Excel/master/Assets/Informe_de_Devolucion.png)
 
